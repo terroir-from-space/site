@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.1ad313f2.chunk.css",
-    "main.js": "/site/static/js/main.54542dc4.chunk.js",
-    "main.js.map": "/site/static/js/main.54542dc4.chunk.js.map",
-    "runtime-main.js": "/site/static/js/runtime-main.a459123f.js",
-    "runtime-main.js.map": "/site/static/js/runtime-main.a459123f.js.map",
-    "static/js/2.f45164e6.chunk.js": "/site/static/js/2.f45164e6.chunk.js",
-    "static/js/2.f45164e6.chunk.js.map": "/site/static/js/2.f45164e6.chunk.js.map",
-    "index.html": "/site/index.html",
-    "precache-manifest.d2f5cd267de6df4cfc513af46282a915.js": "/site/precache-manifest.d2f5cd267de6df4cfc513af46282a915.js",
-    "service-worker.js": "/site/service-worker.js",
-    "static/css/main.1ad313f2.chunk.css.map": "/site/static/css/main.1ad313f2.chunk.css.map",
-    "static/js/2.f45164e6.chunk.js.LICENSE.txt": "/site/static/js/2.f45164e6.chunk.js.LICENSE.txt",
-    "static/media/agrifood.png": "/site/static/media/agrifood.4295f865.png",
-    "static/media/astropreneurs.svg": "/site/static/media/astropreneurs.3b48841e.svg",
-    "static/media/email.png": "/site/static/media/email.0dd5090c.png",
-    "static/media/parsec.png": "/site/static/media/parsec.c701ce28.png",
-    "static/media/index.css": "/site/static/media/vineyard-3.e64b999e.jpg",
-    "static/media/startup3.png": "/site/static/media/startup3.232be641.png",
-    "static/media/terroir-from-space-logo.png": "/site/static/media/terroir-from-space-logo.086548a0.png",
-    "static/media/youtube.png": "/site/static/media/youtube.090daea3.png"
+    "main.css": "/static/css/main.bbd1b68f.chunk.css",
+    "main.js": "/static/js/main.0ba87d62.chunk.js",
+    "main.js.map": "/static/js/main.0ba87d62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c1d3bfa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c1d3bfa.js.map",
+    "static/js/2.f45164e6.chunk.js": "/static/js/2.f45164e6.chunk.js",
+    "static/js/2.f45164e6.chunk.js.map": "/static/js/2.f45164e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.08026dce8d6779e968c5b3346205be3a.js": "/precache-manifest.08026dce8d6779e968c5b3346205be3a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bbd1b68f.chunk.css.map": "/static/css/main.bbd1b68f.chunk.css.map",
+    "static/js/2.f45164e6.chunk.js.LICENSE.txt": "/static/js/2.f45164e6.chunk.js.LICENSE.txt",
+    "static/media/agrifood.png": "/static/media/agrifood.4295f865.png",
+    "static/media/astropreneurs.svg": "/static/media/astropreneurs.3b48841e.svg",
+    "static/media/email.png": "/static/media/email.0dd5090c.png",
+    "static/media/parsec.png": "/static/media/parsec.c701ce28.png",
+    "static/media/index.css": "/static/media/vineyard-3.e64b999e.jpg",
+    "static/media/startup3.png": "/static/media/startup3.232be641.png",
+    "static/media/terroir-from-space-logo.png": "/static/media/terroir-from-space-logo.086548a0.png",
+    "static/media/youtube.png": "/static/media/youtube.090daea3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a459123f.js",
+    "static/js/runtime-main.0c1d3bfa.js",
     "static/js/2.f45164e6.chunk.js",
-    "static/css/main.1ad313f2.chunk.css",
-    "static/js/main.54542dc4.chunk.js"
+    "static/css/main.bbd1b68f.chunk.css",
+    "static/js/main.0ba87d62.chunk.js"
   ]
 }
