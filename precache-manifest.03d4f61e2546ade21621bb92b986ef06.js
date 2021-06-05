@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0b57fe08ecbeb3312dd6eb7fc8ce850",
+    "revision": "6a4bdaab5905953dfb53eee117b3d3b8",
     "url": "/index.html"
   },
   {
-    "revision": "3583ccc9d48e91c71213",
+    "revision": "2ec1f3e6cb9f48afca28",
     "url": "/static/css/main.bbd1b68f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f45164e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3583ccc9d48e91c71213",
-    "url": "/static/js/main.c3151450.chunk.js"
+    "revision": "2ec1f3e6cb9f48afca28",
+    "url": "/static/js/main.8344aea8.chunk.js"
   },
   {
     "revision": "5430de67e0ee3864b707",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/agrifood.4295f865.png"
   },
   {
-    "revision": "3b48841ef7665a9ccf41482e72d36e01",
-    "url": "/static/media/astropreneurs.3b48841e.svg"
-  },
-  {
     "revision": "0dd5090c26dbc8e90b273e485f0c6a1b",
     "url": "/static/media/email.0dd5090c.png"
   },
   {
     "revision": "c701ce28d11162212c987c8fbfe47d52",
     "url": "/static/media/parsec.c701ce28.png"
+  },
+  {
+    "revision": "2508275302ebd85fb65d30a2b375a14e",
+    "url": "/static/media/porto_protocol2.25082753.jpg"
   },
   {
     "revision": "1b66fae646e6c2806bc707be1c2ef9ae",
