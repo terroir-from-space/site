@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a4bdaab5905953dfb53eee117b3d3b8",
+    "revision": "27569e7bafad58564de08cef95176c6a",
     "url": "/index.html"
   },
   {
-    "revision": "2ec1f3e6cb9f48afca28",
+    "revision": "fc2828a8e402a6ac1e2d",
     "url": "/static/css/main.bbd1b68f.chunk.css"
   },
   {
-    "revision": "803d12eab455b2a3202d",
-    "url": "/static/js/2.f45164e6.chunk.js"
+    "revision": "113954b79cc1dea04a85",
+    "url": "/static/js/2.11822799.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.f45164e6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.11822799.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ec1f3e6cb9f48afca28",
-    "url": "/static/js/main.8344aea8.chunk.js"
+    "revision": "fc2828a8e402a6ac1e2d",
+    "url": "/static/js/main.af0967b2.chunk.js"
   },
   {
     "revision": "5430de67e0ee3864b707",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4295f865e56ce60f295757d52055b7eb",
     "url": "/static/media/agrifood.4295f865.png"
+  },
+  {
+    "revision": "335be6dbe907a10a7d48e38489672c1a",
+    "url": "/static/media/eit_food.335be6db.jpg"
   },
   {
     "revision": "0dd5090c26dbc8e90b273e485f0c6a1b",

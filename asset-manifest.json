@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.bbd1b68f.chunk.css",
-    "main.js": "/static/js/main.8344aea8.chunk.js",
-    "main.js.map": "/static/js/main.8344aea8.chunk.js.map",
+    "main.js": "/static/js/main.af0967b2.chunk.js",
+    "main.js.map": "/static/js/main.af0967b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0c1d3bfa.js",
     "runtime-main.js.map": "/static/js/runtime-main.0c1d3bfa.js.map",
-    "static/js/2.f45164e6.chunk.js": "/static/js/2.f45164e6.chunk.js",
-    "static/js/2.f45164e6.chunk.js.map": "/static/js/2.f45164e6.chunk.js.map",
+    "static/js/2.11822799.chunk.js": "/static/js/2.11822799.chunk.js",
+    "static/js/2.11822799.chunk.js.map": "/static/js/2.11822799.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.03d4f61e2546ade21621bb92b986ef06.js": "/precache-manifest.03d4f61e2546ade21621bb92b986ef06.js",
+    "precache-manifest.645d16e6de5681143321693821843528.js": "/precache-manifest.645d16e6de5681143321693821843528.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.bbd1b68f.chunk.css.map": "/static/css/main.bbd1b68f.chunk.css.map",
-    "static/js/2.f45164e6.chunk.js.LICENSE.txt": "/static/js/2.f45164e6.chunk.js.LICENSE.txt",
+    "static/js/2.11822799.chunk.js.LICENSE.txt": "/static/js/2.11822799.chunk.js.LICENSE.txt",
     "static/media/agrifood.png": "/static/media/agrifood.4295f865.png",
+    "static/media/eit_food.jpg": "/static/media/eit_food.335be6db.jpg",
     "static/media/email.png": "/static/media/email.0dd5090c.png",
     "static/media/parsec.png": "/static/media/parsec.c701ce28.png",
     "static/media/porto_protocol2.jpg": "/static/media/porto_protocol2.25082753.jpg",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0c1d3bfa.js",
-    "static/js/2.f45164e6.chunk.js",
+    "static/js/2.11822799.chunk.js",
     "static/css/main.bbd1b68f.chunk.css",
-    "static/js/main.8344aea8.chunk.js"
+    "static/js/main.af0967b2.chunk.js"
   ]
 }
